@@ -16,9 +16,13 @@
 </a>
 </p>
 </div>
-## My Skills
-<div>
 
-</div>
+## My Skills
+
+#### Studying in this moment:
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+
+
 
 
