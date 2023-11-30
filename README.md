@@ -1,5 +1,4 @@
 # Evaldo M. Butzke
-<div>
 <p align="left"> 
       Hello! I'm Evaldo, a 31-year-old beginner <strong>Java developer </strong>currently pursuing a degree in <strong>Computer Science</strong> at Estácio.
 </p>
@@ -15,20 +14,19 @@
 <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-</div>
 
 ## My Skills
 
 #### Studying in this moment:
+<p>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)&nbsp;
+![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
+![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)&nbsp;
+</p>
 
-![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
-  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
-  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
-  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
-  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
 
 
 
