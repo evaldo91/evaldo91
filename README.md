@@ -1,7 +1,6 @@
 ﻿# Evaldo M. Butzke
 <p align="left"> 
-      Hello! I'm Evaldo, a 32-year-old beginner <strong>Java developer </strong>at Alura (  
-[ONE - Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/))currently pursuing a degree in <strong>Computer Science</strong> at Estácio.
+      Hello! I'm Evaldo, a 32-year-old beginner <strong>Java developer </strong>at Alura (ONE - Oracle Next Education)currently pursuing a degree in <strong>Computer Science</strong> at Estácio.
 </p>
 <p align="left"> 
 <strong>You can find me on:<strong>
