@@ -1,0 +1,33 @@
+
+.main_perfil{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 10%;
+    padding-bottom: 0;
+    flex-wrap: wrap;
+    width: 80%;
+
+
+
+}
+.main_perfil_sobre{
+    box-sizing: border-box;
+    width: 50%;
+    margin: auto;
+
+    flex-wrap: wrap;
+}
+.main_perfil_sobre_h1{
+    font-size: 2rem;
+    font-weight: 500;
+    padding-bottom: 8px;
+}
+
+.main_perfil_img{
+    width: 30rem;
+    border-radius: 100%; 
+    overflow: hidden; 
+    box-shadow: 0.625rem 0.3125rem var(--verde-amarelado);
+}

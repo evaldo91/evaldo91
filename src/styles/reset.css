@@ -1,0 +1,60 @@
+/* Reset CSS básico */
+
+/* Remova as margens e preenchimentos padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que a largura e a altura dos elementos incluam preenchimentos e bordas */
+  }
+  
+  /* Normaliza os estilos dos elementos */
+  html, body, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ul, ol, li, table, tbody, thead, tfoot, tr, th, td, form, input, textarea, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+  }
+  
+  /* Corrige o estilo de links para evitar decoração */
+  a {
+    text-decoration: none;
+    color: inherit; /* Herda a cor do texto pai */
+  }
+  
+  /* Adiciona a configuração inicial para elementos de lista */
+  ul, ol {
+    list-style: none;
+  }
+  
+  /* Garante que elementos de formulário mantenham a aparência padrão */
+  button, input, select, textarea {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font: inherit;
+    vertical-align: middle;
+  }
+  
+  /* Normaliza a exibição de imagens como blocos */
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Define a largura máxima do contêiner para evitar esticar além do viewport */
+  .container {
+    width: 100%;
+    max-width: 1200px; /* Por exemplo, define a largura máxima do contêiner como 1200 pixels */
+    margin: 0 auto; /* Centraliza horizontalmente */
+  }
+  
+  /* Defina as regras de formatação para elementos de cabeçalho */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: normal; /* Evita que os cabeçalhos tenham estilos de fonte padrão */
+  }
+  
+  /* Outras regras de reset podem ser adicionadas conforme necessário */
+  

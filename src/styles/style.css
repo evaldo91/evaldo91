@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+:root {
+    --verde-claro: #c7fba5; 
+    --verde-amarelado: #adf182; 
+    --roxo: #916cad; 
+    --roxo-escuro: #523874; 
+    --coral: #dc7d68; 
+  }
+  body {
+    height: 100vh;
+    font-family: Roboto;
+    background: #0e0d14;
+    color: white;
+    display: flex;
+    flex-direction: column; 
+  }
+
+.header{
+    width: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 30px;
+}
+
+.header_logo_b_a{
+
+    text-decoration: none;
+    font-size: 1.5rem;
+    color:var(--verde-claro);
+    font-weight: 400;
+    white-space: nowrap;
+    
+}
+.header_logo_b{
+    color: var(--roxo);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.header_logo:hover{
+    .header_logo_b_a{color: var(--roxo);}
+    .header_logo_b{color: var(--verde-claro)}
+
+}
+
+
+.header_menu{
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 8px;
+}
+.header_menu_itens{
+    color: var(--roxo);
+    display: inline;
+    margin: 0 2px;
+    padding: 16px;
+}
+.header_menu_itens:hover{
+    color: var(--verde-amarelado);
+    background-color: var(--roxo-escuro);
+    border-bottom: 5px solid var(--verde-amarelado);
+}
+.selecionado{
+    color: var(--verde-amarelado);
+    border-bottom: 5px solid var(--verde-amarelado);
+}
+.header_social{
+    color: var(--roxo);
+    text-transform: uppercase;
+    margin: 0;
+    padding: 8px;
+    font-size: 2rem;
+}
+.header_social_itens{
+    display: inline;
+    margin: 0;
+    padding: 8px;
+   
+}
+.header_social_itens:hover{
+    color: var(--verde-amarelado);
+
+}
+
+main {
+    flex: 1; 
+    position: relative;
+    padding-bottom: 100px;
+}
+
+
+
+.footer {
+    flex-shrink: 0; 
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    color: var(--coral);
+    padding: 8px;
+    border-bottom: 8px solid var(--verde-amarelado); 
+  }
+

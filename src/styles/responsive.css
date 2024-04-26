@@ -1,0 +1,52 @@
+
+  @media only screen and (max-width: 768px){
+
+        .header_logo{
+            width: 100%;
+            text-align: center;
+        }
+        .header_menu{
+            
+           
+        }
+        .header_social{
+            
+            
+        }
+  
+  }
+  @media only screen and (max-width: 515px){
+    
+    .header {
+        justify-content: center;
+        row-gap: 20px;
+        flex-direction: column;
+      }
+      .header_logo_b_a{
+        font-size: 2.5rem;
+      }
+      .header_logo_b{
+        font-size: 2.5rem;
+    }
+    .main_perfil{
+      width: 100%;
+    }
+      .main_perfil_sobre{
+        width: 100%;
+        margin: 10% 5%;
+      }
+      .main_galeria_itens{
+        width: 100%;
+        margin: auto;
+
+      }
+      .main_perfil_img{
+        order: 1;
+      }
+      .main_perfil_sobre{
+        order: 2;
+      }
+
+
+  }
+  
